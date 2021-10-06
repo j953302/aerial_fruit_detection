@@ -4,5 +4,5 @@ Using few high resolution aerial pictures of melon patchs. And train yolov4 mode
 
 
 1. 利用爬蟲技術先抓取可以使用的西瓜航拍，如下(資料來源：網路)：
-![image](aerial_fruit_detection/downloads/33322775458_e7a3373121_o.jpg)
+![image](https://github.com/j953302/aerial_fruit_detection/blob/main/downloads/33322775458_e7a3373121_o.jpg)
 為了增加資料與加速訓練效率，將同一張照片利用crop的python檔完成切分資料。
