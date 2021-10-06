@@ -1,0 +1,3 @@
+apple_data/val\1_crop.jpg
+apple_data/val\2_crop.jpg
+apple_data/val\97_crop.jpg
